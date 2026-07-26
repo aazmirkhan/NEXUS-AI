@@ -1,2 +1,7 @@
 # NEXUS-AI
-Enterprise AI Solutions, CRM Automation, AI Voice Agents &amp; Intelligent Business Systems.
+
+Official website and digital platform for Nexus AI.
+
+> Engineering Intelligent Business Systems.
+
+🚧 Currently under development.
